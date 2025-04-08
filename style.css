@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  /* .name-col, .number-col {
+    display: flex;
+    flex-direction: column;
+  } */
+  
+  
+  /* .name-col{
+    margin-bottom: px;
+  } */
+  
+  .number-col .number {
+    margin-bottom: 2px;
+    
+  }
